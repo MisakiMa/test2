@@ -2,5 +2,5 @@ p.background {
  width:700px; height:600px;
  }
  p.background {
- background: linear-gradient(blue, white);
+ background: linear-gradient(black, white);
  }
