@@ -1,0 +1,12 @@
+p.sample1, p.sample2, p.sample3 {
+ width:300px; height:100px;
+ }
+ p.sample1 {
+ background: linear-gradient(white, gray);
+ }
+ p.sample2 {
+ background: linear-gradient(left, #ff0000, rgba(255,0,0,0));
+ }
+ p.sample3 {
+ background: linear-gradient(left 45deg, red, orange, yellow, green, blue, indigo, violet);
+ }
